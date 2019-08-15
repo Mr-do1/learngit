@@ -1,10 +1,6 @@
 this is a problem.
 add a bug.
-<<<<<<< HEAD
 1master
-=======
-1AA
->>>>>>> AA
 2
 3
 4
